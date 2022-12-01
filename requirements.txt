@@ -1,0 +1,2 @@
+numpy==1.23.3
+pycryptodome==3.15.0
